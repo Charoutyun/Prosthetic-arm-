@@ -28,7 +28,18 @@ IF it cant determine the object then it will use the network to determine what t
 Can detect with at least 90% accuracy. 
 
 
+![image](https://github.com/user-attachments/assets/70db7533-79cd-45c2-b18d-0b9a53e0f6bc)
 
+
+
+
+![image](https://github.com/user-attachments/assets/bcd47abd-7602-4353-9c88-bf72dd82c382)
+
+![image](https://github.com/user-attachments/assets/d74001f3-5566-4f14-8d26-eae088a0f167)
+
+![image](https://github.com/user-attachments/assets/c62e84a2-c808-4e1b-81f9-e7859219015b)
+
+![image](https://github.com/user-attachments/assets/32bc0a8d-80ba-4962-b3eb-a7a406a18cc7)
 
 
 
