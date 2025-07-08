@@ -11,8 +11,6 @@ IMPORTANT !
 Need the network. I cant upload it to github because file size is to large,
 here is the google drive link. 
 
-
-
 https://drive.google.com/file/d/1mhj4QVJN85A_hxx6vU7oLzjQDwwXEPP8/view?usp=sharing
 
 
